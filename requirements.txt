@@ -1,0 +1,21 @@
+# Core Frameworks
+langchain
+langgraph
+langchain_google_genai
+langchain_community
+
+# Data Modeling
+pydantic
+
+# Tooling
+tavily-python
+
+# Environment Management
+python-dotenv
+
+# For structured output
+langchainhub
+
+# For PDF Parsing
+PyPDF2
+
