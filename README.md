@@ -143,5 +143,3 @@ python main.py --cv-path "CV_Rivaldo_Fauzan_Robani.pdf" --role "Senior AI Engine
 The final report will be automatically saved in the **output/** directory.
 
 ---
-
-Do you want me to also make this into a **professional GitHub README.md** (with badges, quickstart, and contribution sections), or keep it as a simple internal documentation file?
