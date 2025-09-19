@@ -34,6 +34,3 @@ Environment variables
 IDE-specific files
 .idea/
 .vscode/
-
-Output directory
-output/
